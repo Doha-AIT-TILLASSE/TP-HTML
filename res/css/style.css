@@ -75,3 +75,21 @@ section {
 line, and takes up the whole width 
        */ 
 } 
+.nav { 
+    margin-top: 5px; 
+     } 
+ 
+.nav a { 
+    padding: 10px 15px; 
+    text-transform: uppercase; 
+    text-align: center; 
+    display: block; 
+    color: #34495e; 
+    font-size: .99em; 
+       } 
+ 
+/* Pseudo-class selector */ 
+.nav a:hover { 
+    background-color: #7ebeb6; 
+    color: #092747; 
+             } 
